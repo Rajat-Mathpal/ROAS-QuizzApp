@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="log_in">LOG IN</string>
+    <string name="not_a_member_signup">Not a member? Sign up</string>
+    <string name="title_activity_dasboard">Dasboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_question1">QuestionActivity1</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+
+    <!--Questions-->
+    <string name="question1">"Acura is the luxury brand of what manufacturer?"</string>
+    <string name="question2">Volkswagen owns</string>
+    <string name="question3">What is the motorsports and performance division of Nissan?</string>
+    <string name="question4">Infiniti is the luxury brand of</string>
+    <string name="question5">What is the fastest production car?</string>
+
+
+    <!--Answers for question1-->
+    <string name="q1Incorrect1">"Infiniti"</string>
+    <string name="q1Incorrect2">"Subaru"</string>
+    <string name="q1Incorrect3">"Mitsibishi"</string>
+    <string name="q1correct">"Honda"</string>
+
+    <!--Answer for question2-->
+    <string name="q2correct1">"Audi"</string>
+    <string name="q2correct2">"Bentley"</string>
+    <string name="q2correct3">"Bugatti"</string>
+    <string name="q2Incorrect">"Lexus"</string>
+
+
+    <!--Answer for question3-->
+    <string name="q3correct">"Nismo"</string>
+
+    <!--Answer for question4-->
+    <string name="q4correct1">"Nissan"</string>
+    <string name="q4Incorrect1">"Subaru"</string>
+    <string name="q4Incorrect2">"Mitsibishi"</string>
+    <string name="q4Incorrect3">"Lexus"</string>
+
+    <!--Answer for question5-->
+    <string name="q5Incorrect1">"Ferrari 458"</string>
+    <string name="q5Incorrect2">"Lamborghini Aventador"</string>
+    <string name="q5correct">"Bugatti Veyron"</string>
+    <string name="q5Incorrect3">"Lexus Lfa"</string>
+    <string name="title_activity_questionsfragments">questionsfragments</string>
+    <string name="title_activity_form">activity_form</string>
+    <string name="title_activity_result_activity">result_activity</string>
+
+
+    <string name="title_activity_results">Results</string>
+    <string name="txt_pls_enter_ur_name">Please enter your name!</string>
+    <string name="txt_who_r_they_quiz">Who-R-They? Quiz</string>
+    <string name="txt_first_enter_your_name">First, enter your name to begin:</string>
+    <string name="txt_enter_quiz">Enter Quiz</string>
+    <string name="txt_quiz">Quiz:\u0020</string>
+    <string name="txt_toast_wrong_ans">Sorry, WRONG answer! \u0020 [Score:\u0020 %1$s\u0020]</string>
+    <string name="txt_toast_correct_ans">Your answer is CORRECT! \u0020 [Score:\u0020%1$s\u0020]</string>
+    <string name="txt_toast_cb_clicks">You\'ve selected %1$s out of %2$s choices.</string>
+    <string name="txt_youve_got_x_out_of_x_correct">"You've got %1$s out of %2$s correct."</string>
+    <string name="txt_your_score">Your Score</string>
+    <string name="txt_restart_quiz">Restart Quiz</string>
+    <string name="title_activity_loginactivity2">loginactivity2</string>
+    <string name="title_activity_logout">logout</string>
+
+
+</resources>
